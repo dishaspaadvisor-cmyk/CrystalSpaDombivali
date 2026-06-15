@@ -5,7 +5,7 @@ import {
   FaFacebookF,
   FaInstagram,
   FaWhatsapp,
-  FaYoutube,
+  FaPinterest,
   FaMapMarkerAlt,
   FaPhoneAlt,
   FaEnvelope,
@@ -36,7 +36,7 @@ export default function Footer() {
             {/* Social Media */}
             <div className="mt-8 flex gap-4">
               <a
-                href="https://facebook.com/your-page"
+                href="https://www.facebook.com/crystal.spa.dombivli/"
                 target="_blank"
                 rel="noreferrer"
                 className="flex h-12 w-12 items-center justify-center rounded-full bg-zinc-900 transition-all duration-300 hover:bg-[#1877F2] hover:text-white"
@@ -45,7 +45,7 @@ export default function Footer() {
               </a>
 
               <a
-                href="https://instagram.com/your-profile"
+                href="https://www.instagram.com/crystalspa.dombivali/"
                 target="_blank"
                 rel="noreferrer"
                 className="flex h-12 w-12 items-center justify-center rounded-full bg-zinc-900 transition-all duration-300 hover:bg-gradient-to-r hover:from-pink-500 hover:to-orange-500 hover:text-white"
@@ -63,12 +63,12 @@ export default function Footer() {
               </a>
 
               <a
-                href="https://youtube.com/@yourchannel"
+                href="https://in.pinterest.com/crystalspadombivali/"
                 target="_blank"
                 rel="noreferrer"
                 className="flex h-12 w-12 items-center justify-center rounded-full bg-zinc-900 transition-all duration-300 hover:bg-[#FF0000] hover:text-white"
               >
-                <FaYoutube />
+                <FaPinterest />
               </a>
             </div>
           </div>
