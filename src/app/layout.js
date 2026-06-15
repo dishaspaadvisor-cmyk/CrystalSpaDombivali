@@ -19,6 +19,9 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: SITE.title || "Orange Spa",
   description: "Orange Spa Nagpur - Relaxation & Wellness",
+  icons:{
+    icon:"/favicon.png",
+  },
 };
 
 export default function RootLayout({ children }) {
