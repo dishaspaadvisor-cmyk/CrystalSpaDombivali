@@ -3,6 +3,9 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --accent: #EC268F;
+  --accent-contrast: #ffffff;
+  --accent-20: rgba(236, 38, 143, 0.2);
 }
 
 @theme inline {
