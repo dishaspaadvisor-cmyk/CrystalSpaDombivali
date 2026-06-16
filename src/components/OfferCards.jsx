@@ -18,7 +18,7 @@ const offers = [
 
 export default function OfferCards() {
   return (
-    <section className="bg-[#FFF7ED] py-20">
+    <section className="bg-white py-20">
       <div className="mx-auto max-w-7xl px-6">
         {/* Heading */}
         <div className="mb-14 text-center">
@@ -50,7 +50,7 @@ export default function OfferCards() {
               className="group relative overflow-hidden rounded-[30px] shadow-xl"
             >
               {/* Image */}
-              <div className="relative h-[500px]">
+              <div className="relative h-[550px]">
                 <Image
                   src={offer.image}
                   alt={offer.image}
@@ -58,8 +58,6 @@ export default function OfferCards() {
                   className="object-cover transition duration-700 group-hover:scale-110"
                 />
 
-                {/* Overlay */}
-                <div className="absolute inset-0 bg-gradient-to-t from-black via-black/60 to-transparent" />
 
                 {/* Content */}
                 <div className="absolute bottom-0 left-0 right-0 p-8">

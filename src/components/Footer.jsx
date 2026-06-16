@@ -137,13 +137,62 @@ export default function Footer() {
             </h4>
 
             <ul className="space-y-4 text-gray-300">
-              <li>Full Body Massage</li>
-              <li>Female to Male Massage</li>
-              <li>Four Hand Massage</li>
-              <li>Thai Massage</li>
-              <li>Deep Tissue Massage</li>
-              <li>Hot Oil Massage</li>
-              <li>Swedish Massage</li>
+              <li>
+                <Link
+                  href="/services"
+                  className="transition hover:text-[#EC268F]"
+                >
+                  Full Body Massage
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/services"
+                  className="transition hover:text-[#EC268F]"
+                >
+                  Female to Male Massage
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/services"
+                  className="transition hover:text-[#EC268F]"
+                >
+                  Four Hand Massage
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/services"
+                  className="transition hover:text-[#EC268F]"
+                >
+                  Thai Massage
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/services"
+                  className="transition hover:text-[#EC268F]"
+                >
+                  Deep Tissue Massage
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/services"
+                  className="transition hover:text-[#EC268F]"
+                >
+                  Hot Oil Massage
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/services"
+                  className="transition hover:text-[#EC268F]"
+                >
+                  Swedish Massage
+                </Link>
+              </li>
             </ul>
           </div>
 

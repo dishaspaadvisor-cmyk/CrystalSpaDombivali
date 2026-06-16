@@ -18,9 +18,6 @@ export default function ServicesHero() {
           className="object-cover"
         />
 
-        {/* Overlay */}
-        <div className="absolute inset-0 bg-black/40" />
-
         {/* Gradient */}
         <div className="absolute inset-0 bg-gradient-to-r from-black/90 via-black/70 to-[#EC268F]/25" />
 

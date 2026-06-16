@@ -18,9 +18,6 @@ export default function AboutHero() {
         className="object-cover"
       />
 
-      {/* Overlay */}
-      <div className="absolute inset-0 bg-black/40" />
-
       {/* Brand Gradient */}
       <div
         className="absolute inset-0"
