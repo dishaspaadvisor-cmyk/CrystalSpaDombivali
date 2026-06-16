@@ -28,7 +28,7 @@ export default function Footer() {
             </h3>
 
             <p className="leading-8 text-gray-300">
-              Premium spa and wellness experience in Chhatrapati Sambhaji Nagar.
+              Premium spa and wellness experience in Trimurti Nagar, Dombivli.
               Enjoy luxury massage therapies, peaceful ambience, professional
               care, and complete relaxation.
             </p>
@@ -219,19 +219,9 @@ export default function Footer() {
           </p>
 
           <div className="flex gap-6">
-            <Link
-              href="/privacy-policy"
-              className="transition hover:text-[#EC268F]"
-            >
-              Privacy Policy
-            </Link>
-
-            <Link
-              href="/terms"
-              className="transition hover:text-[#EC268F]"
-            >
-              Terms & Conditions
-            </Link>
+           <span className="transition hover:text-[#EC268F]">
+             Relax Your Body, Calm Your Mind, Renew Your Spirit.
+          </span>
           </div>
         </div>
       </div>
