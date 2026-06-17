@@ -142,15 +142,7 @@ export default function Footer() {
                   href="/services"
                   className="transition hover:text-[#EC268F]"
                 >
-                  Full Body Massage
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/services"
-                  className="transition hover:text-[#EC268F]"
-                >
-                  Female to Male Massage
+                  Jacuzzi Massage
                 </Link>
               </li>
               <li>
