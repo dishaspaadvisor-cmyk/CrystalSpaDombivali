@@ -2,7 +2,7 @@ export const SITE = {
   title: "Crystal Spa Nagpur",
 
   phoneCall: "+919152473524",
-  phoneWhatsApp: "+919324251898",
+  phoneWhatsApp: "+918976809414",
 
   email: "crystalspa.dombivali@gmail.com",
 
