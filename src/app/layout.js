@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: SITE.title || "Orange Spa",
-  description: "Orange Spa Nagpur - Relaxation & Wellness",
+  description: "Orange Spa Dombivali - Relaxation & Wellness",
   icons:{
     icon:"/favicon.png",
   },

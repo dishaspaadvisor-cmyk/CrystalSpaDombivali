@@ -1,14 +1,14 @@
 export const SITE = {
-  title: "Crystal Spa Nagpur",
+  title: "Crystal Spa Dombivali",
 
   phoneCall: "+919152473524",
   phoneWhatsApp: "+918976809414",
 
   email: "crystalspa.dombivali@gmail.com",
 
-  addressLink: "https://crystalspanagpur.in/index.html#",
+  addressLink: "https://crystalspaDombivali.in/index.html#",
    addressLink:
-    "https://maps.google.com/?q=Shirish+Building+16+S+Ambazari+Road+Laxminagar+Nagpur+440022",
+    "https://maps.google.com/?q=Shirish+Building+16+S+Ambazari+Road+Laxminagar+Dombivali+440022",
 
   brand: "#EC268F",
 

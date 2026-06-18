@@ -25,7 +25,7 @@ export default function MapSection() {
         <div className="mt-12 overflow-hidden rounded-[30px] shadow-2xl">
           <iframe
             title="Crystal Spa Dombivli Location"
-            src="https://maps.google.com/maps?q=Sonal%20Business%20Park%20Gharda%20Circle%20Road%20Trimurti%20Nagar%20Dombivli%20East%20421201&t=&z=15&ie=UTF8&iwloc=&output=embed"
+            src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d15069.985083492473!2d73.0898536996216!3d19.217191674397615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sShop%20No.%20106%2C%20107%2C%201st%20floor%2C%20Sonal%20Business%20Park%2C%20Gharda%20Circle%20Road%2C%20Trimurti%20Nagar%2C%20Dombivli%20East%2C%20Dombivli%2C%20Maharashtra%20421201.!5e0!3m2!1sen!2sin!4v1781765777048!5m2!1sen!2sin"
             className="h-[400px] w-full md:h-[500px] lg:h-[650px]"
             loading="lazy"
             allowFullScreen

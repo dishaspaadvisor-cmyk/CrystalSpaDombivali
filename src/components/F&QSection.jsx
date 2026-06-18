@@ -54,7 +54,7 @@ export default function Faq() {
           <div className="mx-auto mt-5 h-1 w-24 rounded-full bg-[#EC268F]" />
 
           <p className="mt-6 text-lg text-gray-600">
-            Everything you need to know about Crystal Spa Nagpur.
+            Everything you need to know about Crystal Spa Dombivali.
           </p>
         </div>
 

@@ -50,7 +50,7 @@ export default function AboutUs() {
             <div className="mt-6 h-1 w-24 rounded-full bg-[#EC268F]" />
 
             <p className="mt-8 text-lg leading-8 text-gray-600">
-              At Crystal Spa Nagpur, we believe true wellness begins with
+              At Crystal Spa Dombivali, we believe true wellness begins with
               complete relaxation. Our professional therapists combine
               traditional healing techniques with modern spa therapies
               to provide an unforgettable experience.

@@ -14,7 +14,7 @@ const slides = [
     image: "/hero/hero.png",
     title: "Luxury Spa & Wellness",
     description:
-      "Experience premium massage therapies, wellness treatments, and complete relaxation at Crystal Spa Nagpur.",
+      "Experience premium massage therapies, wellness treatments, and complete relaxation at Crystal Spa Dombivali.",
   },
   {
     image: "/hero/hero2.png",

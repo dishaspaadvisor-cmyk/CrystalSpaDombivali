@@ -58,7 +58,7 @@ export default function AboutHero() {
             <p className="mt-6 max-w-2xl text-base leading-8 text-gray-200 md:text-lg lg:text-xl">
               Experience luxury wellness, premium massage therapies,
               professional care, and complete relaxation at Crystal Spa
-              Nagpur.
+              Dombivali.
             </p>
 
             {/* Buttons */}

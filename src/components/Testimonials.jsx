@@ -15,7 +15,7 @@ const testimonials = [
   {
     name: "Priya Verma",
     review:
-      "One of the best spa experiences in Nagpur. Clean environment and professional therapists.",
+      "One of the best spa experiences in Dombivali. Clean environment and professional therapists.",
   },
   {
     name: "Amit Patel",
@@ -45,7 +45,7 @@ const testimonials = [
   {
     name: "Anjali Gupta",
     review:
-      "Best spa in Nagpur. The environment is clean, peaceful, and luxurious.",
+      "Best spa in Dombivali. The environment is clean, peaceful, and luxurious.",
   },
 ];
 

@@ -200,7 +200,7 @@ export default function Footer() {
     <div className="flex items-start gap-4">
       <FaMapMarkerAlt className="mt-1 shrink-0 text-[#EC268F]" />
       <p>
-        Shop No. 106, 107, 1st floor, Sonal Business Park, Gharda Circle Road, Trimurti Nagar, Dombivli East, Dombivli, Maharashtra 4212012
+        Shop No. 106, 107, 1st floor, Sonal Business Park, Gharda Circle Road, Trimurti Nagar, Dombivali East, Dombivali, Maharashtra 421201.
       </p>
     </div>
 
