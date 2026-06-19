@@ -32,6 +32,15 @@ export default function RootLayout({ children }) {
     >
       <head>
         <meta name="google-site-verification" content="0Tn5Ii84ekGysx4hjpDv4SKP87exOB5BRLYfIOc-Y1Y" />
+      <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-18253100550"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-18253100550');
+</script>
       </head>
       <body className="min-h-full flex flex-col">
         <Navbar />
